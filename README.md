@@ -1,7 +1,8 @@
+<!--
 - 👋 Hi, I’m a secondary school student from Western Germany.
 - 💻 Currently diving into the world of Python and exploring programming one project at a time.
 
-<!--
+
 **lolc0de/lolc0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
